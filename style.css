@@ -1,0 +1,11 @@
+.carousel_bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+
+.category_wrap img{
+    width: 100px;
+}
+.product_card{
+    height: 100%;
+}
